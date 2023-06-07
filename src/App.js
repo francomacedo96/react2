@@ -8,6 +8,11 @@ function App() {
         <img className='contador-logo' 
         src={reactLogo} alt="" />
       </div>
+
+      <div className='contenedor-prinicipal'>
+
+
+      </div>
     </div> 
   );
 }
