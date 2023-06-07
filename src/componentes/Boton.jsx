@@ -1,4 +1,3 @@
-import React from "react";
 import "../estilo/Boton.css";
 
 function Boton({texto, esBotonDeClic, manejarClic}) {
